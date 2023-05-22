@@ -6,8 +6,8 @@ Latex Thesis Capability Project
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo1.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/mard4/capability">
+    <img src="Tesi/logo1.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Process Capability Dashboard</h3>
