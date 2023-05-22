@@ -1,54 +1,30 @@
-# capability
-Latex Thesis Capability Project
+# Latex Thesis Process Capability Project
 
-<a name="readme-top"></a>
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/mard4/capability">
-    <img src="Tesi/logo1.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">Process Capability Dashboard</h3>
+<p align="center">
+  <h3 align="center">Process Capability Dashboard</h3>
+</p>
 
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+## Table of Contents
 
-
+- [About The Project](#about-the-project)
+  - [Built With](#built-with)
+- [License](#license)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+This interactive dashboard was developed with the goal of controlling and reducing scrap in a production process. By filtering from a date or a measurement, it is possible to view the production time series, box plots, distributions, and process capability indices (CP, CPK, PP, PPK) useful for product scrap prevention.
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+![logo1](https://github.com/mard4/capability/assets/119207738/fb01e2df-185b-408a-802a-8f93802996f7)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+--------------------------------------------
+Thesis Project
 
 ### Built With
 
-* [![Python]
-* [![Qlik Sense]
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+* Python
+* Qlik Sense
 
 <!-- LICENSE -->
 ## License
@@ -56,5 +32,3 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 Image distributed under the Pirelli License.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
