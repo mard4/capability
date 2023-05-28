@@ -9,6 +9,7 @@
 
 - [About The Project](#about-the-project)
   - [Built With](#built-with)
+  - [Built how](#built-how)
 - [License](#license)
 
 <!-- ABOUT THE PROJECT -->
@@ -26,12 +27,24 @@ The purpose of the work is the study of how to prevent internal production waste
 The first phase of the research consisted of a thorough analysis of a series of samples related to innerlinner production. Subsequently, through an identification of the causes of variability and control of the CP and CPK process indices, an attempt was made to understand how to obtain products that conform to the technical specifications established in the control.
 The business goal is to ensure that the production and control process is able to able to ensure product conformity.
 
-
-
 ### Built With
 
 * Python
 * Qlik Sense
+
+### Built How
+
+![1](https://github.com/mard4/capability/blob/main/img/1.jpg)
+![2](https://github.com/mard4/capability/blob/main/img/2.jpg)
+![3](https://github.com/mard4/capability/blob/main/img/3.jpg)
+![4](https://github.com/mard4/capability/blob/main/img/4.jpg)
+![5](https://github.com/mard4/capability/blob/main/img/5.jpg)
+![6](https://github.com/mard4/capability/blob/main/img/6.jpg)
+![7](https://github.com/mard4/capability/blob/main/img/7.jpg)
+![8](https://github.com/mard4/capability/blob/main/img/8.jpg)
+
+
+
 
 <!-- LICENSE -->
 ## License
