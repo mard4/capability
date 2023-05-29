@@ -4,35 +4,40 @@
   <h3 align="center">Process Capability Dashboard</h3>
 </p>
 
-<!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
 - [About The Project](#about-the-project)
   - [Built With](#built-with)
-  - [Built how](#built-how)
+  - [Project Description](#project-description)
 - [License](#license)
 
-<!-- ABOUT THE PROJECT -->
-# About The Project
+---
+
+## About The Project
 
 ### Thesis Result -> Qlik Sense Dashboard
-This interactive dashboard was developed with the goal of controlling and reducing scrap in a production process. By filtering from a date or a measurement, it is possible to view the production time series, box plots, distributions, and process capability indices (CP, CPK, PP, PPK) useful for product scrap prevention.
+This interactive dashboard was developed with the goal of controlling and reducing scrap in a production process. By filtering based on a date or a measurement, users can visualize the production time series, box plots, distributions, and process capability indices (CP, CPK, PP, PPK), which are essential for preventing product scrap.
 
 ![logo1](https://github.com/mard4/capability/assets/119207738/fb01e2df-185b-408a-802a-8f93802996f7)
 
---------------------------------------------
-#### Thesis Project
-This thesis concerns the analysis of the process related to the production of innerliner, as the component that covers the tire.
-The purpose of the work is the study of how to prevent internal production waste at Pirelli's plant. The methodology used was to monitor product quality on an ongoing basis; consequent to a thorough understanding of the company's policy of managing nonconforming products, i.e., products that do not meet the required specifications.
-The first phase of the research consisted of a thorough analysis of a series of samples related to innerlinner production. Subsequently, through an identification of the causes of variability and control of the CP and CPK process indices, an attempt was made to understand how to obtain products that conform to the technical specifications established in the control.
-The business goal is to ensure that the production and control process is able to able to ensure product conformity.
+---
 
-### Built With
+### Thesis Project
+This thesis focuses on analyzing the process involved in the production of innerliners, which are components that cover tires. 
+
+The objective of this work is to study how to prevent internal production waste at Pirelli's plant. 
+The methodology used involved continuous monitoring of product quality and gaining a thorough understanding of the company's policy for managing nonconforming products, i.e., products that do not meet the required specifications. 
+
+The research started with a comprehensive analysis of a series of samples related to innerliner production. Subsequently, by identifying the causes of variability and controlling the CP and CPK process indices, efforts were made to understand how to obtain products that conform to the specified technical requirements. The ultimate business goal is to ensure that the production and control process can consistently deliver conforming products.
+
+---
+
+## Built With
 
 * Python
 * Qlik Sense
 
-### Built How
+## Project Description
 
 ![1](https://github.com/mard4/capability/blob/main/img/1.jpg)
 ![2](https://github.com/mard4/capability/blob/main/img/2.jpg)
@@ -43,12 +48,10 @@ The business goal is to ensure that the production and control process is able t
 ![7](https://github.com/mard4/capability/blob/main/img/7.jpg)
 ![8](https://github.com/mard4/capability/blob/main/img/8.jpg)
 
+---
 
-
-
-<!-- LICENSE -->
 ## License
 
-Image distributed under the Pirelli License.
+The images are distributed under the Pirelli License.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
