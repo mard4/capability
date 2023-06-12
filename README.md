@@ -15,15 +15,19 @@
 
 ## About The Project
 
-### Thesis Result -> Qlik Sense Dashboard
+❗❗❗ This project is not available to use because all the properties belongs to Pirelli
+❗❗ All data in this github project is dummy (according to privacy rules) 
+❗ The use of this project is for LaTeX or for Analysis consult
+
+### Thesis project result 👉 📊 Qlik Sense Dashboard
 This interactive dashboard was developed with the goal of controlling and reducing scrap in a production process. By filtering based on a date or a measurement, users can visualize the production time series, box plots, distributions, and process capability indices (CP, CPK, PP, PPK), which are essential for preventing product scrap.
 
-![logo1](https://github.com/mard4/capability/assets/119207738/fb01e2df-185b-408a-802a-8f93802996f7)
+![logo1](./img/logo2.jpg)
 
 ---
 
 ### Thesis Project
-This thesis focuses on analyzing the process involved in the production of innerliners, which are components that cover tires. 
+This thesis focuses on analyzing the process involved in the production of tyres.
 
 The objective of this work is to study how to prevent internal production waste at Pirelli's plant. 
 The methodology used involved continuous monitoring of product quality and gaining a thorough understanding of the company's policy for managing nonconforming products, i.e., products that do not meet the required specifications. 
@@ -39,14 +43,14 @@ The research started with a comprehensive analysis of a series of samples relate
 
 ## Project Description
 
-![1](https://github.com/mard4/capability/blob/main/img/1.jpg)
-![2](https://github.com/mard4/capability/blob/main/img/2.jpg)
-![3](https://github.com/mard4/capability/blob/main/img/3.jpg)
-![4](https://github.com/mard4/capability/blob/main/img/4.jpg)
-![5](https://github.com/mard4/capability/blob/main/img/5.jpg)
-![6](https://github.com/mard4/capability/blob/main/img/6.jpg)
-![7](https://github.com/mard4/capability/blob/main/img/7.jpg)
-![8](https://github.com/mard4/capability/blob/main/img/8.jpg)
+![1](./img/1.jpg)
+![2](./img/2.jpg)
+![3](./img/3.jpg)
+![4](./img/4.jpg)
+![5](./img/5.jpg)
+![6](./img/6.jpg)
+![7](./img/7.jpg)
+
 
 ---
 
