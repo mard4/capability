@@ -20,11 +20,11 @@
 ### Thesis project result 👉 📊 Qlik Sense Dashboard
 This interactive dashboard was developed with the goal of controlling and reducing scrap in a production process. By filtering based on a date or a measurement, users can visualize the production time series, box plots, distributions, and process capability indices (CP, CPK, PP, PPK), which are essential for preventing product scrap.
 
-<p align="center">
+<!-- <p align="center">
   <h3 align="center">Process Capability Dashboard screenshot </h3>
 </p>
 
-<!-- ![logo1](./img/logo2.jpg) -->
+![logo1](./img/logo2.jpg) -->
 
 ---
 
