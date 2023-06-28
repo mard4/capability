@@ -24,7 +24,7 @@ This interactive dashboard was developed with the goal of controlling and reduci
   <h3 align="center">Process Capability Dashboard screenshot </h3>
 </p>
 
-![logo1](./img/logo2.jpg)
+#![logo1](./img/logo2.jpg)
 
 ---
 
