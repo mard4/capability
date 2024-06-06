@@ -10,6 +10,7 @@ In this project we obtain data directly from sensors. Initially, we analyzed the
 This interactive dashboard was developed with the goal of controlling and reducing scrap in a production process. By filtering based on a date or a measurement, users can visualize the production time series, box plots, distributions, and process capability indices (CP, CPK, PP, PPK), which are essential for preventing product scrap.
 
 ![1](./img/img.jpg)
+![2](./img/logo1.jpg)
 
 ## About The Project
 
