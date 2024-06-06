@@ -26,21 +26,6 @@ The objective of this work is to study how to prevent internal production waste 
 The methodology used involved continuous monitoring of product quality and gaining a thorough understanding of the company's policy for managing nonconforming products, i.e., products that do not meet the required specifications. 
 
 The research started with a comprehensive analysis of a series of samples related to innerliner production. Subsequently, by identifying the causes of variability and controlling the CP and CPK process indices, efforts were made to understand how to obtain products that conform to the specified technical requirements. The ultimate business goal is to ensure that the production and control process can consistently deliver conforming products.
-
-You can see all the details in the thesis pdf.
-
-### Author
-Martina D'Angelo
----
-
-## Built With
-
-* Python
-* Qlik Sense
-* JMP
-
-## Project Description
-
 ![1](./img/1.jpg)
 ![2](./img/2.jpg)
 ![3](./img/3.jpg)
@@ -48,8 +33,15 @@ Martina D'Angelo
 ![5](./img/5.jpg)
 ![6](./img/6.jpg)
 ![7](./img/7.jpg)
+---
 
-
+## Built With
+* Python
+* Qlik Sense
+* JMP
+  
+### Author
+Martina D'Angelo
 ---
 
 ## License
